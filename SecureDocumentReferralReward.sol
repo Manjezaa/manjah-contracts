@@ -38,7 +38,7 @@ interface IWorldID {
 }
 
 // Interface for the World Address Book contract
-interface IAddressBook {
+interface IAddressBook {d8db77c0-c5a6-409c-b622-ecd6078ec125
     function addressVerifiedUntil(address addr) external view returns (uint256);
 }
 
